@@ -1,23 +1,6 @@
 
 > Open this page at [https://54hex.github.io/phs-alp-oh-22-space-invaders-showcase/](https://54hex.github.io/phs-alp-oh-22-space-invaders-showcase/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/54hex/phs-alp-oh-22-space-invaders-showcase** and import
-
-## Edit this project ![Build status badge](https://github.com/54hex/phs-alp-oh-22-space-invaders-showcase/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/54hex/phs-alp-oh-22-space-invaders-showcase** and click import
-
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
@@ -29,3 +12,7 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## Hello. 
+This MakeCode "project" is used for the Presbyterian High Open House 2022. 
+This project is followed using the Instructables tutorial found <a href="https://www.instructables.com/Microbit-MakeCode-Space-Invader/">here</a>, created by Yamiuo.
