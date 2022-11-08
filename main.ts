@@ -1,3 +1,8 @@
+/**
+ * Note: Button A moves player to the left, Button B moves player to the right.
+ * 
+ * Pressing A+B simultaneously will allow the player to shoot the enemy.
+ */
 // Moving player
 input.onButtonPressed(Button.A, function () {
     Player.change(LedSpriteProperty.X, -1)
@@ -25,7 +30,7 @@ let EnemyFire: game.LedSprite = null
 let Shoot: game.LedSprite = null
 let Enemy: game.LedSprite = null
 let Player: game.LedSprite = null
-game.setLife(4)
+game.setLife(3)
 game.setScore(0)
 Player = game.createSprite(2, 4)
 Enemy = game.createSprite(0, -4)
